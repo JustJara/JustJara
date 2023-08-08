@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Villa</h1>
 <h3 align="center">A passionate first year software engineering student.</h3>
 
-- 🔭 I’m currently working on **nothing yet**
-
-- 🌱 I’m currently learning **Python $ FrontEnd basics**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JustJara?tab=repositories](https://github.com/JustJara?tab=repositories)
+- 🌱 I’m currently learning **Python & FrontEnd basics**
 
 - 💬 Ask me about **Python basics**
 
