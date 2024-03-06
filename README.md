@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Villa</h1>
-<h3 align="center">A passionate first year software engineering student.</h3>
+<h3 align="center">A passionate second year software engineering student.</h3>
 
 - 🌱 I’m currently learning **Python & FrontEnd basics**
 
